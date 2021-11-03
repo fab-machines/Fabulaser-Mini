@@ -13,7 +13,14 @@ A tool to make, a tool to learn.
 --
 In comparison to commercial laser cutters, Fabulaser Mini adds on top of the laser cutting functionalities a valuable learning experience. Ideally built together with students during a workshop, Fabulaser Mini will give to the user not only the possibility to laser cut, but also to learn how the machine is made, how it works. And other than learning about electronics, mechanics and lasers, the final user will also have a deep knowledge of the machine, so to be able to efficiently execute maintenance, apply improvements and even design his own machine later on!
 
+The Assembly Manual
+--
 
+![](media/manual_shot_3.jpg)
+
+Fabulaser Mini comes with state  of art building instruction manual, detailing any of the many building details. Divided in logical steps, the manual also instructs on general building practices, the laser calibration and how to connect all the electronics of the machine. Teachers and lectures can also use the manual to divide workshop participants into building groups.
+![](media/manual_shot_1.jpg)
+![](media/manual_shot_2.jpg)
 
 The Kit
 --
@@ -35,15 +42,6 @@ Included in the Fabulaser Kit:
 More info on Fabulaser Mini are available at: [http://fabulaser.net/](http://fabulaser.net/)
 
 ![](media/mini_just__built.jpg)
-
-The Assembly Manual
---
-
-![](media/manual_shot_3.jpg)
-
-Fabulaser Mini comes with state  of art building instruction manual, detailing any of the many building details. Divided in logical steps, the manual also instructs on general building practices, the laser calibration and how to connect all the electronics of the machine. Teachers and lectures can also use the manual to divide workshop participants into building groups.
-![](media/manual_shot_1.jpg)
-![](media/manual_shot_2.jpg)
 
 Fabulaser Mini specifications
 --
