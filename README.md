@@ -67,11 +67,12 @@ Fabulaser Mini specifications
 
 Files
 --
+- **[Assembly manual](manual)**
 - **[BOM](Fabulaser_V2.1_BOM.pdf)**
 - **[Firmware](firmware)**
 - **[CAD](cad)**
 - **[Converter PCB](converterPCB)**
-- **[Assembly manual](manual)**
+- **[Settings](settings)**
 
 Authors
 --
