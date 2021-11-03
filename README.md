@@ -80,7 +80,7 @@ Fabulaser Mini has been designed, developed and manufactured by:<br>
 - Daniele Ingrassia, at **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**<br>
 
 
-The Fabulaser Mini assembly manual has been made by:<br>
+The Fabulaser Mini assembly manual authors are:<br>
 - Marc Kohlen
 - Liane Honda
 
