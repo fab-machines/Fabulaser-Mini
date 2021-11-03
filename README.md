@@ -49,7 +49,7 @@ Fabulaser Mini specifications
 --
 - laser source: 40W CO2
 - cutting area: 600x400mm
-- resolution: 0.05mm / 
+- resolution: 0.05mm 
 - max. cutting thickness: 
   - 8mm acrylic
   - 6mm MDF
@@ -59,9 +59,19 @@ Fabulaser Mini specifications
 - housing: aluminum composite
 - bed: aluminum lamella
 - frame: aluminum profiles
+- controller: 32bit LPC1768
+- firmware: [grbl-LPC](https://github.com/cprezzi/grbl-LPC)
 - machine dimensions: 870x810x380mm
 
 ![](media/mini_diagonal.jpg)
+
+Files
+--
+- [BOM](Fabulaser_V2.1_BOM.pdf)
+- [Firmware](firmware)
+- [CAD](CAD)
+- [Converter PCB](converterPCB)
+- [Assembly manual](manual)
 
 Authors
 --
@@ -85,3 +95,5 @@ CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_
 The Fabulaser assembly manual, pictures and presentation text of this repository are released under the following license:
 
 Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
+
+Fabulaser Mini uses grbl-LPC [https://github.com/cprezzi/grbl-LPC](https://github.com/cprezzi/grbl-LPC), released under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
