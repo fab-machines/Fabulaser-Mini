@@ -75,15 +75,15 @@ Files
 Authors
 --
 
+The Fabulaser Mini assembly manual authors are:<br>
+- **Marc Kohlen, marckohlen@3dinx.com**
+- **Liane Sayuri Honda, licasayurih@gmail.com** 
+
 Fabulaser Mini has been designed, developed and manufactured by:<br>
 
-- Daniele Ingrassia, daniele@inmachines.net
+- **Daniele Ingrassia, daniele@inmachines.net**
 - **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**<br>
 
-
-The Fabulaser Mini assembly manual authors are:<br>
-- Marc Kohlen, marckohlen@3dinx.com
-- Liane Sayuri Honda, licasayurih@gmail.com 
 
 License
 --
