@@ -80,8 +80,8 @@ License
 
 The hardware design, CAD and PCB files, BOM, manufaturing settings and relative files are are released under the following open source license:
 
-CERN Open Hardware Licence Version 2 Weakly Reciprocal - [CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)
+CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)**
 
 The Fabulaser assembly manual, pictures and presentation text of this repository are released under the following license:
 
-Creative-Commons-Attribution-ShareAlike 4.0 International - [CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)
+Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
