@@ -69,7 +69,7 @@ Files
 --
 - **[BOM](Fabulaser_V2.1_BOM.pdf)**
 - **[Firmware](firmware)**
-- **[CAD](CAD)**
+- **[CAD](cad)**
 - **[Converter PCB](converterPCB)**
 - **[Assembly manual](manual)**
 
