@@ -5,20 +5,20 @@
 
 Introduction
 ---
-Fabulaser est une découpeuse laser compact mais puissante et 100% open source. Développé pour les Fab Labs et des salles de classe, Fabulaser Mini vise à abaisser les limites de l'accès à cette technologie, représentant un compromis idéal entre performances et coût. Avec un laser CO2 optimisé de 40 W, il est capable de couper de l'acrylique de 8 mm et avec une zone de coupe de 600 x 400 mm, un des plus grands de cette catégorie de machines! La taille compacte de la machine de 870x810x380mm et son poids inférieur à 60kg, permettent l'utilisation dans de petites pièces avec juste une table ou un bureau.
+Fabulaser est une découpeuse laser compact mais puissante et 100% open source. Développé pour les Fab Labs, les Tiers-lieux et les écoles, Fabulaser Mini vise à abaisser les limites de l'accès à cette technologie, représentant un compromis idéal entre performances et coût. Avec un laser CO2 optimisé de 40 W, il est capable de couper de l'acrylique de 8 mm et avec une zone de coupe de 600 x 400 mm, c'est un des plus grands machines de cette catégorie! La taille compacte de la machine de 870x810x380mm et son poids inférieur à 60kg, permettent l'utilisation dans de petites pièces avec juste une table ou un bureau.
 
 ![](media/mini_front.jpg)
 
 Fait pour fabriquer, et pour apprendre.
 --
-Fabulaser Mini ajoute aux fonctionnalités de découpe laser une expérience d'apprentissage précieuse. Idéalement construit avec des étudiants ou enseignants lors d'un atelier, Fabulaser Mini donnera à l'utilisateur non seulement la possibilité de découper au laser, mais aussi d'apprendre comment la machine est fabriquée et comment elle fonctionne. Et outre l'apprentissage de l'électronique, de la mécanique et des lasers, l'utilisateur final aura également une connaissance approfondie de la machine, afin de pouvoir exécuter efficacement la maintenance, appliquer des améliorations et même concevoir sa propre machine plus tard!
+Fabulaser Mini ajoute aux fonctionnalités des découpeuses laser une expérience d'apprentissage précieuse. Idéalement construit avec des étudiants ou enseignants lors d'un atelier, Fabulaser Mini donnera à l'utilisateur non seulement la possibilité de découper et de graver, mais aussi d'apprendre comment la machine est fabriquée et comment elle fonctionne. Et outre l'apprentissage de l'électronique, de la mécanique et des lasers, l'utilisateur final aura également une connaissance approfondie de la machine, afin de pouvoir exécuter efficacement la maintenance, appliquer des améliorations et même concevoir sa propre machine plus tard!
 
 Les instructions d'assemblage (traduction en Français en cours)
 --
 
 ![](media/manual_shot_3.jpg)
 
-Fabulaser Mini est livré avec des instructions d'assemblage détaillant tous les détails d'assemblage. Divisé en étapes, le manuel explique également les pratiques générales de construction, l'étalonnage du laser et la manière de connecter tous les composants électroniques de la machine. Les enseignants peuvent également utiliser le manuel pour diviser les participants à l'atelier en groupes.
+Fabulaser Mini est livré avec des instructions d'assemblage détaillant tous les détails d'assemblage. Divisé en étapes, les instructions explique également les pratiques générales de construction, l'étalonnage du laser et la manière de connecter tous les composants électroniques de la machine. Les enseignants peuvent également utiliser le manuel pour diviser les participants à l'atelier en groupes.
 ![](media/manual_shot_1.jpg)
 ![](media/manual_shot_2.jpg)
 
