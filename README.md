@@ -75,7 +75,7 @@ Files
 Authors
 --
 
-The Fabulaser Mini assembly manual authors are:<br>
+The Fabulaser Mini Assembly Manual authors are:<br>
 - **Marc Kohlen, marckohlen@3dinx.com**
 - **Liane Sayuri Honda, licasayurih@gmail.com** 
 
