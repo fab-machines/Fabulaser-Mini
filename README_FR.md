@@ -1,65 +1,65 @@
 <div align="center"><h1 style=align="center">Fabulaser Mini</h1></div>
 
 <div align="center"><img src="media/mini_banner.jpg" width="100%"></div>
-<div align="center"><i>An open source laser cutter within your reach.</i></div>
+<div align="center"><i>une découpeuse laser pour tous.</i></div>
 
-Introduction 
+Introduction
 ---
-Fabulaser is a compact, yet  powerful, open source laser cutter. Developed to fit in Fab Labs and classrooms, Fabulaser Mini aims to lower the boundaries of accessing laser cutting technology, representong an ideal compromise between performance and cost. With an optimized 40W CO2 laser, it is able to cut 8mm acrylic, and with a cutting area of 600x400mm is one the largest of this machine category. The compact machine size of 870x810x380mm and the weight under 60kg, allows the usage in small rooms with a normal table or a desk.
+Fabulaser est une découpeuse laser compact mais puissante et 100% open source. Développé pour les Fab Labs et des salles de classe, Fabulaser Mini vise à abaisser les limites de l'accès à cette technologie, représentant un compromis idéal entre performances et coût. Avec un laser CO2 optimisé de 40 W, il est capable de couper de l'acrylique de 8 mm et avec une zone de coupe de 600 x 400 mm, un des plus grands de cette catégorie de machines! La taille compacte de la machine de 870x810x380mm et son poids inférieur à 60kg, permettent l'utilisation dans de petites pièces avec juste une table ou un bureau.
 
 ![](media/mini_front.jpg)
 
-A tool to make, a tool to learn.
+Fait pour fabriquer, et pour apprendre.
 --
-In comparison to commercial laser cutters, Fabulaser Mini adds on top of the laser cutting functionalities a valuable learning experience. Ideally built together with students during a workshop, Fabulaser Mini will give to the user not only the possibility to laser cut, but also to learn how the machine is made, how it works. And other than learning about electronics, mechanics and lasers, the final user will also have a deep knowledge of the machine, so to be able to efficiently execute maintenance, apply improvements and even design his own machine later on!
+Fabulaser Mini ajoute aux fonctionnalités de découpe laser une expérience d'apprentissage précieuse. Idéalement construit avec des étudiants ou enseignants lors d'un atelier, Fabulaser Mini donnera à l'utilisateur non seulement la possibilité de découper au laser, mais aussi d'apprendre comment la machine est fabriquée et comment elle fonctionne. Et outre l'apprentissage de l'électronique, de la mécanique et des lasers, l'utilisateur final aura également une connaissance approfondie de la machine, afin de pouvoir exécuter efficacement la maintenance, appliquer des améliorations et même concevoir sa propre machine plus tard!
 
-The Assembly Manual
+Les instructions d'assemblage
 --
 
 ![](media/manual_shot_3.jpg)
 
-Fabulaser Mini comes with state  of art building instruction manual, detailing any of the many building details. Divided in logical steps, the manual also instructs on general building practices, the laser calibration and how to connect all the electronics of the machine. Teachers and lectures can also use the manual to divide workshop participants into building groups.
+Fabulaser Mini est livré avec des instructions d' assemblage détaillant tous les nombreux détails d'assemblage. Divisé en étapes, le manuel explique également les pratiques générales de construction, l'étalonnage laser et la manière de connecter tous les composants électroniques de la machine. Les enseignants peuvent également utiliser le manuel pour diviser les participants à l'atelier en groupes.
 ![](media/manual_shot_1.jpg)
 ![](media/manual_shot_2.jpg)
 
-The Kit
+Le Kit
 --
 ![](media/kit_diagonal.jpg)
 
-Fabulaser Mini kit, is the one-stop solution for everything you need to fully use the laser cutting capabilities of Fabulaser Mini. Providing all the required parts and special tools to build the laser cutter, Fabulaser Mini kit also provides all the additional accessory to start laser cutting out of the box. As well all the required adapter and connection are provided, so that the user only have to concentrate on assembly, without losing time in searching and buying additional parts.
+Le kit Fabulaser Mini est la solution unique avec tout ce dont vous avez besoin pour utiliser les capacités de découpe laser.  Avec toutes les pièces nécessaires et les outils spéciaux pour construire la découpeuse laser, le kit Fabulaser Mini fournit également tous les accessoires supplémentaires pour démarrer la découpe laser prête à l'emploi. De plus, tous les adaptateurs et connexions nécessaires sont fournis, de sorte que l'utilisateur n'a qu'à se concentrer sur l'assemblage, sans perdre de temps à rechercher et à acheter des pièces supplémentaires.
 
 ![](media/kit_square.jpg)
 
-Included in the Fabulaser Kit:
+Dans le Kit Fabulaser on trouve:
 
-- Fabulaser Mini machine parts
-- air assist compressor
-- exhaust radial fan
-- indoor air filter
-- water chiller
-- all the required connections/adapters
+- Toutes les composants mécanique
+- compresseur
+- ventilateur
+- système de filtration d'air
+- système de refroidissement d'eaux
+- Toutes les adaptateurs/ connecteurs nécessaires
 
-More info on Fabulaser Mini are available at: [http://fabulaser.net/](http://fabulaser.net/)
+Pour plus d'information ou pour l'achat d'un kit en France: [https://digitalgravity.fr/fr/fabulaser/](https://digitalgravity.fr/fr/fabulaser/)
 
 ![](media/mini_just__built.jpg)
 
 Fabulaser Mini specifications
 --
-- laser source: 40W CO2
-- cutting area: 600x400mm
-- resolution: 0.05mm 
-- max. cutting thickness: 
+- Source: 40W CO2
+- Zone de coupe: 600x400mm
+- Resolution: 0.05mm
+- Épaisseur de coupe max:
   - 8mm acrylic
   - 6mm MDF
-  - 8mm Plywood
-- max speed: 400mm/s
-- motion: linear rails
-- housing: aluminum composite
-- bed: aluminum lamella
-- frame: aluminum profiles
-- controller: 32bit LPC1768
+  - 8mm Contreplaque
+- Vitesse de découpe max: 400mm/s
+- Système de mouvement: linear rails
+- Construction: aluminum composite
+- Lit de coupe: aluminum lamella
+- Cadre: aluminum profiles
+- Controlleur: 32bit LPC1768
 - firmware: [grbl-LPC](https://github.com/cprezzi/grbl-LPC)
-- machine dimensions: 870x810x380mm
+- Dimensions: 870x810x380mm
 
 ![](media/mini_diagonal.jpg)
 
@@ -77,7 +77,7 @@ Authors
 
 The Fabulaser Mini Assembly Manual authors are:<br>
 - **Marc Kohlen, marckohlen@3dinx.com**
-- **Liane Sayuri Honda, licasayurih@gmail.com** 
+- **Liane Sayuri Honda, licasayurih@gmail.com**
 
 Fabulaser Mini has been designed, developed and manufactured by:<br>
 
