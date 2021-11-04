@@ -88,7 +88,7 @@ Fabulaser Mini has been designed, developed and manufactured by:<br>
 License
 --
 
-The hardware design, CAD and PCB files, BOM, manufaturing settings and relative files are are released under the following open source license:
+The Fabulaser Mini hardware design, CAD and PCB files, BOM, manufaturing settings and relative files are are released under the following open source license:
 
 - CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)**
 
