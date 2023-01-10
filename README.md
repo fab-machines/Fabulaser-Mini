@@ -71,6 +71,7 @@ Files
 - **[CAD](cad)**
 - **[Converter PCB](converterPCB)**
 - **[Settings](settings)**
+- **[User manual](Fabulaser_User_manual_L2M1.pdf)**
 
 Authors
 --
