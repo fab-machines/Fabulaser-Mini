@@ -1,4 +1,4 @@
-<div align="center"><h1 style=align="center">Fabulaser Mini</h1></div>
+<div align="center"><h1 style=align="center">Fabulaser Mini V2</h1></div>
 
 <div align="center"><img src="media/mini_banner.jpg" width="100%"></div>
 <div align="center"><i>An open source laser cutter within your reach.</i></div>
