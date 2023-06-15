@@ -7,11 +7,12 @@ Fabulaser is a compact, yet  powerful, open source laser cutter. Developed to fi
 
 Versions
 --
-Fabulaser Mini V2
-<div><img src="media/mini_banner.jpg" width="50%"></div>
+**[Fabulaser Mini V2](Fabulaser_Mini_V2)**
+<div><img src="media/FabulaserMiniV2.jpg" width="50%"></div>
 <br>
 Fabulaser Mini V3
 <div><img src="media/FabulaserMiniV3.jpg" width="50%"></div>
+
 A tool to make, a tool to learn.
 --
 In comparison to commercial laser cutters, Fabulaser Mini adds on top of the laser cutting functionalities a valuable learning experience. Ideally built together with students during a workshop, Fabulaser Mini will give to the user not only the possibility to laser cut, but also to learn how the machine is made, how it works. And other than learning about electronics, mechanics and lasers, the final user will also have a deep knowledge of the machine, so to be able to efficiently execute maintenance, apply improvements and even design his own machine later on!
