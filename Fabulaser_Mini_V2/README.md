@@ -1,15 +1,13 @@
-<div align="center"><h1 style=align="center">Fabulaser Mini</h1></div>
+<div align="center"><h1 style=align="center">Fabulaser Mini V2</h1></div>
 
+<div align="center"><img src="media/mini_banner.jpg" width="100%"></div>
 <div align="center"><i>An open source laser cutter within your reach.</i></div>
 
 Introduction 
 ---
-Fabulaser Mini is a compact, yet  powerful, open source laser cutter. Developed to fit in Fab Labs and classrooms, it aims to lower the boundaries of accessing laser cutting technology, representing an ideal compromise between performance and cost. 
+Fabulaser is a compact, yet  powerful, open source laser cutter. Developed to fit in Fab Labs and classrooms, Fabulaser Mini aims to lower the boundaries of accessing laser cutting technology, representong an ideal compromise between performance and cost. With an optimized 40W CO2 laser, it is able to cut 8mm acrylic, and with a cutting area of 600x400mm is one the largest of this machine category. The compact machine size of 870x810x380mm and the weight under 60kg, allows the usage in small rooms with a normal table or a desk.
 
-Versions
---
-Fabulaser Mini V2
-<div align="center"><img src="media/mini_banner.jpg" width="100%"></div>
+![](media/mini_front.jpg)
 
 A tool to make, a tool to learn.
 --
