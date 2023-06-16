@@ -47,9 +47,9 @@ More info on Fabulaser Mini are available at: [http://fabulaser.net/](http://fab
 
 Fabulaser Mini V3 specifications
 --
-
 <div align="center"><img src="media/Sample1.jpg" width="80%"></div>
 <br>
+
 - laser source: 40W CO2
 - cutting area: 600x400mm
 - resolution: 0.05mm 
