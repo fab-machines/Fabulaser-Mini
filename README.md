@@ -54,15 +54,16 @@ Fabulaser Mini V3 specifications
 - cutting area: 600x400mm
 - resolution: 0.05mm 
 - max. cutting thickness: 
-  - 8mm acrylic
+  - 10mm acrylic
   - 6mm MDF
   - 8mm Plywood
-- max speed: 400mm/s
-- motion: linear rails
+- max speed: 1000mm/s
+- motion: linear rails and linear shafts
 - frame and housing: interlocked aluminum plates
 - bed: aluminum lamella
-- controller: 32bit LPC1768
-- firmware: [grbl-LPC](https://github.com/cprezzi/grbl-LPC)
+- sensors: inductive probes
+- controller: 32bit Teensy 4.1
+- firmware: [grbl-hal]([https://github.com/cprezzi/grbl-LPC](https://github.com/grblHAL/iMXRT1062))
 - machine dimensions: 1161x812x390mm
 
 Files
