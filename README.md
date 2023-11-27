@@ -7,7 +7,7 @@
 
 Introduction 
 ---
-Fabulaser Mini is a compact, yet  powerful, open source laser cutter. Developed to fit in Fab Labs and classrooms, Fabulaser Mini aims to lower the boundaries of accessing laser cutting technology, representong an ideal compromise between performance and cost. With an optimized 40W CO2 laser, it is able to cut 8mm acrylic, and with a cutting area of 600x400mm is one the largest of this machine category. The compact machine size of 1161x812x390mm, allows the usage in small rooms with a normal table or a desk.
+Fabulaser Mini is a compact, yet  powerful, open source laser cutter. Developed to fit in Fab Labs and classrooms, Fabulaser Mini aims to lower the boundaries of accessing laser cutting technology, representing an ideal compromise between performance and cost. With an optimized 40W CO2 laser, it is able to cut 8mm acrylic, and with a cutting area of 600x400mm is one the largest of this machine category. The compact machine size of 1161x812x390mm, allows the usage in small rooms with a normal table or a desk.
 
 <div align="center"><img src="media/FabulaserMiniV3_2.jpg" width="100%"></div>
 <br>
@@ -47,22 +47,23 @@ More info on Fabulaser Mini are available at: [http://fabulaser.net/](http://fab
 
 Fabulaser Mini V3 specifications
 --
-
 <div align="center"><img src="media/Sample1.jpg" width="80%"></div>
 <br>
+
 - laser source: 40W CO2
 - cutting area: 600x400mm
 - resolution: 0.05mm 
 - max. cutting thickness: 
-  - 8mm acrylic
+  - 10mm acrylic
   - 6mm MDF
   - 8mm Plywood
-- max speed: 400mm/s
-- motion: linear rails
+- max speed: 1000mm/s
+- motion: linear rails and linear shafts
 - frame and housing: interlocked aluminum plates
 - bed: aluminum lamella
-- controller: 32bit LPC1768
-- firmware: [grbl-LPC](https://github.com/cprezzi/grbl-LPC)
+- sensors: inductive probes
+- controller: 32bit Teensy 4.1
+- firmware: [grbl-hal]([https://github.com/cprezzi/grbl-LPC](https://github.com/grblHAL/iMXRT1062))
 - machine dimensions: 1161x812x390mm
 
 Files
