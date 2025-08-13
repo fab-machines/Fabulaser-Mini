@@ -1,9 +1,9 @@
 {
-  "name": "olsk-small-laser",
+  "name": "fabulaser-mini",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://open-lab-starter-kit.github.io/OLSK-Small-Laser/Assembly_Manual",
+  "homepage": "https://open-lab-starter-kit.github.io/Fabulaser_Mini/Assembly_Manual",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
