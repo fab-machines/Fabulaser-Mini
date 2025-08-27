@@ -22,12 +22,10 @@ In comparison to commercial laser cutters, Fabulaser Mini adds on top of the las
 
 The Assembly Manual 
 --
-![](media/manual_shot_3.jpg)
 
-Fabulaser Mini comes with a state of art building instruction manual, detailing any of the many building details. Divided in logical steps, the manual also instructs on general building practices, the laser calibration and how to connect all the electronics of the machine. Teachers and lectures can also use the manual to divide workshop participants into building groups.
-<div><i>Fabulaser Mini V3 assembly manual is still in progress. The complete manual is available only for Fabulaser Mini V2</i></div>
+The Fabulaser Mini assembly manual is an interactive 3D assembly guideline, where the user can learn how to build the laser-cutter, step-by-step. It contains a list of parts, tools, and instruction remarks, following a logic order to provide a smooth assembly experience.
 
-![](media/manual_shot_2.jpg)
+- **[Assembly Manual](https://fab-machines.github.io/Fabulaser-Mini)**
 
 The Kit
 --
